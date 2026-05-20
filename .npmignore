@@ -1,0 +1,5 @@
+# Dev-only lockfile — consumers resolve their own deps via npm/yarn/pnpm/bun
+bun.lock
+
+# Keep everything else (LICENSE, NOTICE, README, src/, tests, data, etc.):
+# tests ship intentionally for AGPL transparency
