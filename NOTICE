@@ -1,0 +1,35 @@
+Tiraskaraṇī (तिरस्करणी)
+Copyright (C) 2026 ANKR Labs / Capt. Anil Sharma
+Licensed under AGPL-3.0 (see LICENSE).
+
+────────────────────────────────────────────────────────────────────────────────
+Third-party attributions
+────────────────────────────────────────────────────────────────────────────────
+
+JustDeleteMe
+  Source: https://justdeleteme.xyz/
+  Repository: https://github.com/justdeleteme/justdeleteme.github.io
+  License: MIT
+  Used as the seed reference for broker / data-controller account-closure URLs
+  and difficulty ratings. Where we have imported entries (see src/broker-registry.ts),
+  the original MIT attribution stands. ANKR additions, extensions, and the
+  Tiraskaraṇī-specific schema fields (jurisdiction tagging, ID-requirement
+  classification, re-ingestion cadence estimates) are AGPL-3.0.
+
+────────────────────────────────────────────────────────────────────────────────
+Naming
+────────────────────────────────────────────────────────────────────────────────
+
+Tiraskaraṇī (तिरस्करणी) — the Mahabharata cloak of invisibility worn by
+warriors and divine actors to enter hostile fields unseen. The name was chosen
+to root the engine in a non-Western privacy tradition: invisibility as
+disciplined, intentional, reversible — not opaque, not deceptive.
+
+────────────────────────────────────────────────────────────────────────────────
+Trademark notice
+────────────────────────────────────────────────────────────────────────────────
+
+"xShieldAI", "AnkrShield", "Olvidito", and the related word/figurative marks
+are trademarks of ANKR Labs / PowerBox IT Solutions Pvt Ltd. The AGPL license
+does not grant trademark rights — forks may use the codebase under AGPL but
+must not use the marks to identify modified versions.

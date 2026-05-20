@@ -1,0 +1,61 @@
+{
+  "name": "@xshieldai/tiraskarani",
+  "version": "0.1.0",
+  "description": "तिरस्करणी (Tiraskaraṇī) — the Mahabharata cloak-of-invisibility engine. Right-to-be-forgotten primitives: jurisdictional letter generation, broker-registry, visibility-map, re-cloak posture. AGPL-3.0. Powers xShieldAI.me consumer brand, AnkrShield desktop open-core, and xShieldAI B2B.",
+  "license": "AGPL-3.0",
+  "type": "module",
+  "main": "./index.ts",
+  "module": "./index.ts",
+  "exports": {
+    ".": "./index.ts",
+    "./jurisdictions": "./src/jurisdictions.ts",
+    "./visibility-map": "./src/visibility-map.ts",
+    "./broker-registry": "./src/broker-registry.ts",
+    "./letter-templates": "./src/letter-templates.ts",
+    "./types": "./src/types.ts"
+  },
+  "author": "Capt. Anil Sharma <capt.anil.sharma@powerpbox.org>",
+  "homepage": "https://xshieldai.me",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rocketlang/tiraskarani.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rocketlang/tiraskarani/issues"
+  },
+  "keywords": [
+    "right-to-be-forgotten",
+    "rtbf",
+    "gdpr",
+    "ccpa",
+    "dpdp",
+    "lgpd",
+    "privacy",
+    "data-broker",
+    "erasure",
+    "xshieldai",
+    "ankrshield",
+    "ankr"
+  ],
+  "scripts": {
+    "test": "bun test",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0",
+    "@types/bun": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "ankrMetadata": {
+    "service_consumer": "ankrshield-desktop-rtbf",
+    "spinOutGates": [
+      "first paid B2B contract",
+      "live billing landing",
+      "engine >=1K npm monthly downloads or >=3 external maintainers"
+    ],
+    "rulesDoc": "/root/proposals/ankrshield-desktop-rtbf--logics--formal--2026-05-19.md",
+    "annotationPrefix": "@rule:ASD-RTBF-"
+  }
+}
