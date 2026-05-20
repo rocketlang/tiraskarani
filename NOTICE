@@ -1,6 +1,46 @@
 Tiraskaraṇī (तिरस्करणी)
-Copyright (C) 2026 ANKR Labs / Capt. Anil Sharma
-Licensed under AGPL-3.0 (see LICENSE).
+Copyright (C) 2026 ANKR Labs / Capt. Anil Sharma <capt.anil.sharma@powerpbox.org>
+Licensed under the GNU Affero General Public License, version 3 (see LICENSE).
+
+This NOTICE file contains attributions, additional permissions under AGPL §7,
+the commercial-license invitation, naming provenance, and the trademark notice.
+The LICENSE file is the canonical AGPL-3.0 text, unmodified. Where this NOTICE
+and the LICENSE appear to conflict, the LICENSE controls.
+
+────────────────────────────────────────────────────────────────────────────────
+Apache-style upstream notice
+────────────────────────────────────────────────────────────────────────────────
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+────────────────────────────────────────────────────────────────────────────────
+Additional terms (permitted under AGPL-3.0 §7)
+────────────────────────────────────────────────────────────────────────────────
+
+If you run a modified version of this software as a network service, you must
+make the complete source code of the modified version available to all users
+of that service under the terms of AGPL-3.0. This is a re-statement of the
+AGPL §13 obligation and is included here for emphasis; it adds no obligation
+not already in the license.
+
+────────────────────────────────────────────────────────────────────────────────
+Commercial license
+────────────────────────────────────────────────────────────────────────────────
+
+A separate non-copyleft commercial license is available for SaaS deployments,
+enterprise integrations, and embedding in proprietary products. Contact:
+  captain@ankr.in
 
 ────────────────────────────────────────────────────────────────────────────────
 Third-party attributions
